@@ -1,0 +1,25 @@
+.flex{
+    display: flex;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+
+
+.mx{
+    margin: 0 12px;
+}
+
+.grey{
+    color: rgb(58, 58, 58);
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}

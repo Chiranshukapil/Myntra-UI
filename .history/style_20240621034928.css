@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+.navi{
+    margin: 23px;
+    font-size: small;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+
+.left ul{
+    margin: 0 23px;
+}
+
+.left img{
+    height: 45px;
+    margin: 0 40px;
+}
+
+.leftitem{
+    list-style: none;
+    margin: 0 15px;
+}
+
+.right input{
+    height: 26px;
+}

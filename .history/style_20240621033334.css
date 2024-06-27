@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+.navi{
+    margin: 23px;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+}
+
+.left ul{
+    /* padding: 0 80px; */
+    margin: 0 30px;
+}
+
+.left img{
+    height: 45px;
+    margin: 0 40px;
+}
+
+.leftitem{
+    list-style: none;
+    margin: 0 15px;
+}
